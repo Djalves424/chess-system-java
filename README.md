@@ -561,6 +561,16 @@ Checklist:
 
 ![image](https://github.com/Djalves424/chess-system-java/assets/108296040/877a2fe7-d658-4a6e-9e63-3c8e6b6f0273)
 
+##################################################
+
+25° Etapa:
+
+Iniciando a aplicação jogo de xadrez no Git ➝ (Abrir o Git Bash no repositório da aplicacão, antes de executar o projeto entrar na pasta bin, após isso executar o seguinte comando, (java application/Program), conforme a imagem a seguir).
+
+![image](https://github.com/Djalves424/chess-system-java/assets/108296040/03fbe7c0-a653-4a48-aa23-1039789432f8)
+
+
+
 
 
 
